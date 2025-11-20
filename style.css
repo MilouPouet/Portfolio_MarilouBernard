@@ -53,7 +53,7 @@ h1, h2 {
 
 /* Section 1 */
 .hero {
-  background: url("file:///Users/mariloubernard/Desktop/Guardia/UE2-2_CDC_De%CC%81veloppement%20se%CC%81curise%CC%81%20web%20full%20stack/img/fond1.jpg") center/cover no-repeat;
+  background: url("fond1.jpg") center/cover no-repeat;
   min-height: 100vh; /* garde la première section pleine hauteur */
 }
 
@@ -416,5 +416,6 @@ footer {
   text-align: center;
   padding: 30px;
 }
+
 
 
